@@ -1,3 +1,3 @@
-# testjs2
+# My new repository
 My app
 My new file
